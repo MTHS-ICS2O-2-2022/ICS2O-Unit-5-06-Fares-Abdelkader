@@ -1,17 +1,11 @@
 <mxfile host="65bd71144e">
     <diagram id="HIP3nbAZw_EuaXWnEj3U" name="Page-1">
-        <mxGraphModel dx="443" dy="296" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+        <mxGraphModel dx="606" dy="602" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
             <root>
                 <mxCell id="0"/>
                 <mxCell id="1" parent="0"/>
-                <mxCell id="4" style="edgeStyle=orthogonalEdgeStyle;html=1;rounded=0;" edge="1" parent="1" source="2" target="3">
-                    <mxGeometry relative="1" as="geometry"/>
-                </mxCell>
-                <mxCell id="2" value="Start" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;" parent="1" vertex="1">
-                    <mxGeometry x="230" y="310" width="100" height="60" as="geometry"/>
-                </mxCell>
-                <mxCell id="3" value="Stop" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;" parent="1" vertex="1">
-                    <mxGeometry x="230" y="450" width="100" height="60" as="geometry"/>
+                <mxCell id="4" value="&lt;b style=&quot;font-style: normal; font-variant-caps: normal; letter-spacing: normal; text-align: start; text-indent: 0px; text-transform: none; word-spacing: 0px; -webkit-text-stroke-width: 0px; text-decoration: none; caret-color: rgb(0, 0, 0); color: rgb(0, 0, 0); font-weight: normal;&quot; id=&quot;docs-internal-guid-92bdb5c2-7fff-b80f-52df-a19bf9f665ab&quot;&gt;&lt;span style=&quot;font-size: 26pt; font-family: &amp;quot;Helvetica Neue&amp;quot;, sans-serif; color: rgb(23, 54, 93); background-color: transparent; font-weight: 400; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-variant-east-asian: normal; font-variant-position: normal; text-decoration: none; vertical-align: baseline;&quot;&gt;&lt;span style=&quot;border: none; display: inline-block; overflow: hidden; width: 555px; height: 491px;&quot;&gt;&lt;img style=&quot;margin-left: 0px; margin-top: 0px;&quot; height=&quot;491&quot; width=&quot;555&quot; src=&quot;https://lh3.googleusercontent.com/Id6E0L0VC4uNYErjyMJsEDadxur5UyAJjcIeCmbK7ksOtgFtil44YfYcVGzs8ByJzKtlyvyq6EMIAWT3gHFFB8k_ax1mXlv3h95hdFwZ-r9w4K4mJGlX_X5BxvCp12tvtv_46g6OO33Jc8_zSGf9Wg&quot;&gt;&lt;/span&gt;&lt;/span&gt;&lt;/b&gt;" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+                    <mxGeometry x="250" y="390" width="560" height="520" as="geometry"/>
                 </mxCell>
             </root>
         </mxGraphModel>
